@@ -1,6 +1,12 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');*/
 /* Provide sufficient contrast against white background */
+
 a {
   color: #0366d6;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
 }
 
 code {
